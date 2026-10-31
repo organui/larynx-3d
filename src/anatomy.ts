@@ -273,7 +273,7 @@ export const structures: Structure[] = [
     elements: ['FJ3672', 'FJ3671', 'FJ3670'],
     color: '#a5675f',
     description:
-      'A hormone gland wrapped around the front of the upper trachea. Its isthmus crosses the trachea just below the cricoid cartilage.',
+      'A hormone gland wrapped around the front of the upper trachea. Its isthmus crosses the trachea over its second to fourth rings, below the cricoid cartilage.',
     note: 'Included for orientation. Both lobes and the isthmus are one selectable structure.',
   },
 ]
